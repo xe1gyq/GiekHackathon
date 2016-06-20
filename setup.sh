@@ -2,7 +2,7 @@ echo "Welcome to Grove Indoor Environment Kit Hackathon Edition"
 
 git clone https://github.com/xe1gyq/GiekHackathon.git
 cd GiekHackathon/
-pip install pip --requests
+pip install pip --upgrade
 sh requirements.opkg
 pip install -r requirements.pip
 

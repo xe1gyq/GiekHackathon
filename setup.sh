@@ -1,4 +1,4 @@
-echo "Welcome to Grove Indoor Environment Kit Hackathon Edition"
+echo "Welcome to Grove Indoor Environment Kit Hackathon"
 
 git clone https://github.com/xe1gyq/GiekHackathon.git
 cd GiekHackathon/

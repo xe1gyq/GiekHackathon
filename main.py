@@ -1,3 +1,8 @@
+#!/usr/bin/python
+
+# More information at
+# https://github.com/intel-iot-devkit/upm/tree/master/examples/python
+
 import time
 
 import pyupm_biss0001 as upmMotion
